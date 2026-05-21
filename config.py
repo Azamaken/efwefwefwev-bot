@@ -1,0 +1,2 @@
+TOKEN = "8708057797:AAEaEiyuxrNZIX6D0gKzjiHR9s02hepDjEc" # токен бота
+ADMIN_ID = 7528568061 
